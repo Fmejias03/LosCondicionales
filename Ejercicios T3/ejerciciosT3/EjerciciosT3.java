@@ -103,6 +103,7 @@ public class EjerciciosT3{
       break;
       default:
       System.out.println("El valor introducido no es válido.");
+      break;
     }
   }
   
