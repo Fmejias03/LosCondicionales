@@ -43,7 +43,7 @@ public class EjerciciosT3{
     if(temperatura < 2){
       System.out.println("Riesgo de hielo.");
     }else{
-      System.out.println("OK. ningún riesgo de hielo.");
+      System.out.println("OK. Ningún riesgo de hielo.");
     }
   }
 
@@ -51,18 +51,18 @@ public class EjerciciosT3{
     System.out.println("Introduzca una temperatura en grados Celsius: ");
     double temperatura = teclado.nextDouble();
     if(temperatura < 2){
-      System.out.println("Riesgo de hielo");
+      System.out.println("Riesgo de hielo.");
     }else if (temperatura >= 2 && temperatura < 15){
-      System.out.println("Hace frío");
+      System.out.println("Hace frío.");
     }else if(temperatura >= 15 && temperatura < 30){
-      System.out.println("Buena temperatura");
+      System.out.println("Buena temperatura.");
     }else{
-      System.out.println("Demasiado calor");   
+      System.out.println("Demasiado calor.");   
      }
   }
 
   private static void mesCorrespondiente(Scanner teclado){
-    System.out.println("Introduzca un número entre 1 y 12.");
+    System.out.print("Introduzca un número entre 1 y 12: ");
     int valorIntroducido = teclado.nextInt();
     switch(valorIntroducido){
       case 1:
