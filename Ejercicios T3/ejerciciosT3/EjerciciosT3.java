@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class EjerciciosT3{
   public static void main (String[] args){
-    int option = 0;
+    int opcion = 0;
     Scanner teclado = new Scanner(System.in);
     do{
   
       menu();
       
-      option = teclado.nextInt();
+      opcion = teclado.nextInt();
       switch(option){
         case 1:
           tiempo(teclado);
@@ -25,7 +25,7 @@ public class EjerciciosT3{
       }
 
       
-    }while(option!=5);
+    }while(opcion!=5);
   }
   private static void menu(){
     System.out.println("Elija uno de los siguientes ejercicios.");
