@@ -7,9 +7,9 @@ public class EjerciciosT3{
     int opcion = 0;
     Scanner teclado = new Scanner(System.in);
     do{
-  
+
+      System.out.println("Elija uno de los siguientes ejercicios.");
       menu();
-      
       opcion = teclado.nextInt();
       switch(option){
         case 1:
@@ -28,7 +28,6 @@ public class EjerciciosT3{
     }while(opcion!=5);
   }
   private static void menu(){
-    System.out.println("Elija uno de los siguientes ejercicios.");
     System.out.println("1. El tiempo.");
     System.out.println("2. El tiempo mejorado.");
     System.out.println("3. Nombre del mes.");
