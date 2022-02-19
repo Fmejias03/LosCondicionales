@@ -11,7 +11,7 @@ El enlace correspondiente al repositiorio de la entrega 3. Los condicionales. es
 ### 4. El tiempo de cocción
 El diagrama de flujo correspondiente al ejercicio el tiempo de cocción es:
 
-![tiempococcion drawio](https://user-images.githubusercontent.com/98825807/154819811-c08c7cc7-9998-43c2-adae-bbd79478e047.svg)
+![tiempococcion drawio (1)](https://user-images.githubusercontent.com/98825807/154819977-48c0458f-9861-4898-a502-803068ea091c.svg)
 
 
 ### 5. La nómina
