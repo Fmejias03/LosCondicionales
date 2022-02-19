@@ -21,11 +21,20 @@ public class EjerciciosT3{
           case 3:
           mesCorrespondiente(teclado);
           break;
+          case 4:
+          break;
+          case 5:
+          break:
+          case 6:
+          break:
+          default:
+          System.out.println("El valor introducido no es válido.");
+          break;
 
       }
 
       
-    }while(opcion!=5);
+    }while(opcion!=6);
   }
   private static void menu(){
     System.out.println("1. El tiempo.");
