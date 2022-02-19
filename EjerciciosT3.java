@@ -24,6 +24,9 @@ public class EjerciciosT3 {
                     break;
                 case 5:
                     break;
+              case 6:
+                System.out.println("Gracias.");
+                break;
                 default:
                     System.out.println("El valor introducido no es válido.");
                     break;
@@ -123,7 +126,7 @@ public class EjerciciosT3 {
         tipo = teclado.nextInt();
 
         System.out.println("Modo de cocción: ");
-        System.out.println("1. Casi crudo \n2. Al punto\n 3. Bien hecho");
+        System.out.println("1. Casi crudo \n2. Al punto\n3. Bien hecho");
         modo = teclado.nextInt();
 
         System.out.print("Introduzca el peso en gramos: ");
@@ -143,7 +146,7 @@ public class EjerciciosT3 {
                 default:
                     System.out.println("El modo introducido no es correcto");
             }
-            System.out.println("El tiempo de cocción es: " + resultado) ;
+            System.out.println("El tiempo de cocción es: " + resultado + " segundos.") ;
         }
         else if (tipo == 2){
             switch (modo){
