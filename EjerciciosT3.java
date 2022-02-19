@@ -24,7 +24,7 @@ public class EjerciciosT3 {
                     break;
                 case 5:
                     break;
-              case 6:
+                case 6:
                 System.out.println("Gracias.");
                 break;
                 default:
