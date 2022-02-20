@@ -199,7 +199,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="kJD3y-_oCrTrb81wseK7-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Escribir &quot;El tiempo de cocción es &quot; y el resultado&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="95" y="980" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="95" y="980" width="155" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="kJD3y-_oCrTrb81wseK7-110" value="&lt;font color=&quot;#ffffff&quot;&gt;Fin&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="92.5" y="1080" width="120" height="60" as="geometry"/>
@@ -207,10 +207,10 @@
                 <mxCell id="kJD3y-_oCrTrb81wseK7-130" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kJD3y-_oCrTrb81wseK7-121" target="kJD3y-_oCrTrb81wseK7-128" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="kJD3y-_oCrTrb81wseK7-121" value="&#10;&#10;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Escribir &quot;El tiempo de cocción es &quot; y el resultado&lt;/span&gt;&#10;&#10;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="505" y="980" width="120" height="60" as="geometry"/>
+                <mxCell id="kJD3y-_oCrTrb81wseK7-121" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Escribir &quot;El tiempo de cocción es &quot; y el resultado&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="505" y="980" width="155" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="kJD3y-_oCrTrb81wseK7-128" value="&#10;&#10;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Fin&lt;/span&gt;&#10;&#10;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                <mxCell id="kJD3y-_oCrTrb81wseK7-128" value="&lt;font color=&quot;#ffffff&quot;&gt;Fin&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="510" y="1080" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="lE8H2aPfAQ1n_LlINeU5-0" value="Case crudo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
