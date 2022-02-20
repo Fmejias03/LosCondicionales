@@ -164,7 +164,7 @@ public class EjerciciosT3 {
                 default:
                     System.out.println("El modo introducido no es correcto");
             }
-            System.out.println("El tiempo de cocción es: " + resultado) ;
+            System.out.println("El tiempo de cocción es: " + resultado + " segundos.") ;
         }
         else{
             System.out.println("El tipo de carne introducido no es correcto.");
@@ -194,6 +194,13 @@ private static void mostrarNomina(Scanner teclado) {
             }catch (InputMismatchException e){
                 System.out.println("La opción introducida no es correcta");
             }
+          if (puesto == 1){
+            estado = "Agente de servicio";
+        }else if (puesto == 2){
+            estado = "Empleado de oficina";
+        }else {
+            estado = "Directivo";
+        }
         }while (puesto != 1 && puesto !=2 && puesto != 3);
         System.out.print("Número de horas trabajadas: ");
         int horas = teclado.nextInt();
@@ -212,22 +219,6 @@ private static void mostrarNomina(Scanner teclado) {
         }
 
 
-        if (puesto == 1){
-            estado = "Agente de servicio";
-        }else if (puesto == 2){
-            estado = "Empleado de oficina";
-        }else {
-            estado = "Directivo";
-        }
-
-        int primaFamiliar = 0;
-        if(hijos == 1){
-            primaFamiliar = 20;
-        }else if (hijos == 2){
-            primaFamiliar = 50;
-        }else if (hijos>2){
-            primaFamiliar = 70 + (((hijos-2)*20));
-        }
 
         bruto = ((tarifa*horas)+(tarifa*1.5*horas50)+(tarifa*1.6*horas60));
 
@@ -265,6 +256,15 @@ private static void mostrarNomina(Scanner teclado) {
 
         double neto = bruto - deduccionesTotales;
         System.out.println("\nSalario neto: \n" + Math.round(neto*100.0)/100.0 + "€" );
+
+  int primaFamiliar = 0;
+        if(hijos == 1){
+            primaFamiliar = 20;
+        }else if (hijos == 2){
+            primaFamiliar = 50;
+        }else if (hijos>2){
+            primaFamiliar = 70 + (((hijos-2)*20));
+        }
 
         System.out.println("- Prima familiar: " + Math.round(primaFamiliar*100.0)/100.0 + "€");
 
