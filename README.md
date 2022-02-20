@@ -1,11 +1,17 @@
 # Los Condicionales
 
+Realizado por: Chiara Boccaletti y Patricia Sanz Escurin
 El enlace correspondiente al repositiorio de Los condicionales es: https://github.com/chiarab22/LosCondicionales.git
 
 ### Programa principal
 El diagrama de flujo correspondiente al gestor principal es:
 
 ![Main drawio (1)](https://user-images.githubusercontent.com/98779707/154840395-c58d93ff-6d08-4003-a5d0-a3a3150b177a.svg)
+
+El UML correspondiente con el programa es:
+
+![Ejerciciost3UML drawio](https://user-images.githubusercontent.com/98825807/154843593-d717283d-6b3d-4468-b573-c1b7b6031a41.svg)
+
 
 ### Menú de opciones
 El diagrama de flujo correspondiente al menú de opciones es:
