@@ -40,4 +40,4 @@ El diagrama de flujo correspondiente al ejercicio "El tiempo de cocción" es:
 ### 5. La nómina
 El diagrama de flujo correspondiente al ejercicio "La nómina" es:
 
-![LaNomina drawio](https://user-images.githubusercontent.com/98825807/154841424-6d4bdad3-4cc8-4eac-9841-c60eb390fe6b.svg)
+![LaNomina drawio (1)](https://user-images.githubusercontent.com/98825807/154842077-57f3041b-e40f-41ed-8dc1-4d603d36d9b1.svg)
