@@ -26,6 +26,10 @@ El diagrama de flujo correspondiente al ejercicio "El tiempo version 2" es:
 
 
 ### 3. El nombre del mes
+El diagrama de flujo correspondiente al ejercicio "El nombre del mes" es:
+
+![NombreDelMes drawio](https://user-images.githubusercontent.com/98779707/154841466-b63c29e8-2c96-4d32-ae0a-0fd2b58fcc4e.svg)
+
 
 ### 4. El tiempo de cocción
 El diagrama de flujo correspondiente al ejercicio "El tiempo de cocción" es:
